@@ -23,6 +23,7 @@
     "@nestjs/common": "^10.3.2",
     "@nestjs/core": "^10.3.2",
     "@nestjs/platform-express": "^10.3.2",
+    "axios": "^1.6.8",
     "dotenv": "^16.4.5",
     "koa": "^2.15.3",
     "koa-adapter": "^0.0.3",
